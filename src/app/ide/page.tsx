@@ -228,6 +228,10 @@ function IDEContent() {
                         quickSuggestions: true,
                         wordBasedSuggestions: 'matchingDocuments',
                         tabSize: 2,
+                        autoClosingBrackets: 'always',
+                        autoClosingQuotes: 'always',
+                        formatOnType: true,
+                        formatOnPaste: true,
                       }}
                     />
                   </div>
@@ -269,7 +273,7 @@ function IDEContent() {
                 <iframe
                   ref={iframeRef}
                   key={previewKey}
-                  sandbox="allow-scripts"
+                  sandbox="allow-scripts allow-same-origin allow-forms allow-modals allow-popups"
                   className="flex-1 bg-white w-full"
                   title="Preview"
                 />
