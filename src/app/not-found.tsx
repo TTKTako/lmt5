@@ -3,7 +3,6 @@
 import { useState, useEffect } from 'react';
 import { Nav } from '../components/nav';
 import ASCIIText from '../components/ASCIIText';
-import ScrollVelocity from '../components/scrollvelocity';
 
 export default function Home() {
 
