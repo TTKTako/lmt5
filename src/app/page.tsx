@@ -73,7 +73,7 @@ export default function Home() {
             <span className="animate-pulse">|</span>
           </h1>
           <p className="text-xl md:text-2xl text-purple-300 mb-8 max-w-2xl mx-auto">
-            Kasetsart University, Computer Engineering Camp
+            Kasetsart University, Computer Engineering <a href="/badtime" className='pointer'>Camp</a>
           </p>
           <a href="/learn">
             <button className="flex flex-row items-center gap-2 px-8 py-3 bg-transparent border-2 border-[#ffed00] text-[#ffed00] rounded-lg hover:bg-[#ffed00] hover:text-[#0f0515] transition-all duration-300 neon-border text-lg font-semibold">
