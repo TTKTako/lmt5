@@ -55,7 +55,7 @@ const coursesConfig: Record<string, CourseConfig> = {
     visible: true,
     hasIDE: false,
     slides: [
-      { id: 1, title: 'ESP32 Programming [IOT]', url: 'https://www.canva.com/design/DAG7i3Qk_KI/yl68rIGfgD5XdmjcxmkVTA/view?utm_content=DAG7i3Qk_KI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7bdecc7e36', visible: false },
+      { id: 1, title: 'ESP32 Programming [IOT]', url: 'https://www.canva.com/design/DAG7i3Qk_KI/yl68rIGfgD5XdmjcxmkVTA/view?utm_content=DAG7i3Qk_KI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7bdecc7e36', visible: true },
     ]
   }
 };
