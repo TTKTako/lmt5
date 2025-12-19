@@ -11,7 +11,6 @@ export function Nav() {
     const navItems = [
         { name: 'Home', path: '/' },
         { name: 'Learn', path: '/learn' },
-        { name: 'IDE', path: '/ide' },
     ];
 
     const toggleMenu = () => {
