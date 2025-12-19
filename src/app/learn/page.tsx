@@ -27,6 +27,7 @@ const coursesConfig: Record<string, CourseConfig> = {
     slides: [
       { id: 1, title: 'Introduction to Python', url: 'https://www.canva.com/design/DAG1UIKzaAw/-veXNI0lSRcA2HZ1EhxZPQ/view?utm_content=DAG1UIKzaAw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h957e561774', visible: true },
       { id: 2, title: 'Python Applications', url: 'https://www.canva.com/design/DAG1UGyjIjA/KqSEn_9xcOxtd0hxyDWS1Q/view?utm_content=DAG1UGyjIjA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1c4444ef8d', visible: true },
+      { id: 2, title: 'Python Hackathon', url: 'https://www.canva.com/design/DAG7e9Q405E/XZ_NOHSHpREZ--DpMCY9Tw/view?utm_content=DAG7e9Q405E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb249b60597', visible: true },
     ],
     ideUrl: '/ide?lang=python'
   },
