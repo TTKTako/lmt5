@@ -25,9 +25,11 @@ const coursesConfig: Record<string, CourseConfig> = {
     visible: true,
     hasIDE: true,
     slides: [
-      { id: 1, title: 'Introduction to Python', url: 'https://www.canva.com/design/DAG1UIKzaAw/-veXNI0lSRcA2HZ1EhxZPQ/view?utm_content=DAG1UIKzaAw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h957e561774', visible: true },
-      { id: 2, title: 'Python Applications', url: 'https://www.canva.com/design/DAG1UGyjIjA/KqSEn_9xcOxtd0hxyDWS1Q/view?utm_content=DAG1UGyjIjA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1c4444ef8d', visible: true },
-      { id: 2, title: 'Python Hackathon', url: 'https://www.canva.com/design/DAG7e9Q405E/XZ_NOHSHpREZ--DpMCY9Tw/view?utm_content=DAG7e9Q405E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb249b60597', visible: true },
+      { id: 1, title: 'Introduction to Python', url: 'https://www.canva.com/design/DAG77JG__0U/Es0H1MEZwDcna-KGyxS75w/view?utm_content=DAG77JG__0U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfcbe5a788e', visible: true },
+      { id: 2, title: 'Python Applications', url: 'https://www.canva.com/design/DAG77ACzIrI/eGnS9m0TinRt-acQy_P6VQ/view?utm_content=DAG77ACzIrI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8e252cb85d', visible: true },
+      { id: 3, title: 'Python Hackathon', url: 'https://www.canva.com/design/DAG7e9Q405E/XZ_NOHSHpREZ--DpMCY9Tw/view?utm_content=DAG7e9Q405E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb249b60597', visible: false },
+      { id: 1, title: 'Introduction to Python [Answer Key]', url: 'https://www.canva.com/design/DAG1UIKzaAw/-veXNI0lSRcA2HZ1EhxZPQ/view?utm_content=DAG1UIKzaAw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h957e561774', visible: false },
+      { id: 2, title: 'Python Applications [Answer Key]', url: 'https://www.canva.com/design/DAG1UGyjIjA/KqSEn_9xcOxtd0hxyDWS1Q/view?utm_content=DAG1UGyjIjA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1c4444ef8d', visible: false },
     ],
     ideUrl: '/ide?lang=python'
   },
