@@ -46,7 +46,7 @@ const coursesConfig: Record<string, CourseConfig> = {
       { id: 5, title: 'CSS Lab 4: Basic CSS', url: '/websiteLab/CSS4OtherProperty.zip', visible: false, download: true },
       { id: 6, title: 'CSS Lab 5: Basic CSS', url: '/websiteLab/CSS5BoxProperty.zip', visible: false, download: true },
       { id: 7, title: 'HTML Lab: Example', url: '/websiteLab/HTML_example.zip', visible: true, download: true },
-      { id: 8, title: 'Practice Lab 1: LMT Invitations', url: '/websiteLab/practice1_LMT_invitations.zip', visible: false, download: true },
+      { id: 8, title: 'Practice Lab 1: LMT Invitations', url: '/websiteLab/practice1_LMT_invitations.zip', visible: true, download: true },
       { id: 9, title: 'Practice Lab 2: Spanish Color', url: '/websiteLab/Practice2_SpanishColor.zip', visible: false, download: true },
     ],
     ideUrl: '/ide?lang=software'
