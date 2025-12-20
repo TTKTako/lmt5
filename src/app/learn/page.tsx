@@ -40,7 +40,7 @@ const coursesConfig: Record<string, CourseConfig> = {
     hasIDE: true,
     slides: [
       { id: 1, title: 'Website Development Slide', url: '/Web_Development_compressed.pdf', visible: true },
-      { id: 2, title: 'CSS Lab 1: Basic CSS', url: '/websiteLab/CSS1BasicCss.zip', visible: false, download: true },
+      { id: 2, title: 'CSS Lab 1: Basic CSS', url: '/websiteLab/CSS1BasicCss.zip', visible: true, download: true },
       { id: 3, title: 'CSS Lab 2: Basic CSS', url: '/websiteLab/CSS2BasicProperty.zip', visible: false, download: true },
       { id: 4, title: 'CSS Lab 3: Basic CSS', url: '/websiteLab/CSS3Selector.zip', visible: false, download: true },
       { id: 5, title: 'CSS Lab 4: Basic CSS', url: '/websiteLab/CSS4OtherProperty.zip', visible: false, download: true },
